@@ -2,7 +2,7 @@
 * stopping criteria
 * examples and tests
 * continuation
-* travisCI integration
+* travisCI build badge
 * get setup.py working
 * include linear operator stuff correctly
 * add 32-vs-64-bit switch
