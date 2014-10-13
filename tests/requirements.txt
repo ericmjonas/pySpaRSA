@@ -1,0 +1,4 @@
+numpy
+scipy
+-e git://github.com/ericmjonas/pykrylov.git
+
