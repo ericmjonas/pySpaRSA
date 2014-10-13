@@ -4,3 +4,7 @@
 * continuation
 * travisCI integration
 * get setup.py working
+* include linear operator stuff correctly
+* add 32-vs-64-bit switch
+* other inits
+
