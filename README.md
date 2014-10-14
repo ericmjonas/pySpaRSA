@@ -1,5 +1,6 @@
 PySpaRSA : Sparse Reconstruction by Separable Approximation
 --------------------------------------
+[![Build Status](https://travis-ci.org/ericmjonas/pySpaRSA.svg?branch=master)](https://travis-ci.org/ericmjonas/pySpaRSA)
 
 Python implementation of SpaRSA for sparse recovery, from
 
